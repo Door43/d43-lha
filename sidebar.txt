@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[lha:home|Door43 (lha)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-lha|d43-lha repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-lha/archive/master.zip|d43-lha.zip]]
+
+**Recent Changes**
+{{changes>ns = lha}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/lha|Ethnologue data]]
+
